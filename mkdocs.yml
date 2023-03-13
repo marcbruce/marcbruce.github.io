@@ -1,6 +1,6 @@
 site_name: Infosec Resources
 site_description: Infosec Resources
-site_url: https://marcbruce.com
+site_url: https://marcbruce.com/
 
 theme:
     name: 'material'
