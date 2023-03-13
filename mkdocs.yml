@@ -1,6 +1,6 @@
 site_name: Infosec Resources
 site_description: Infosec Resources
-site_url: https://marcbruce.github.io/docs
+site_url: https://marcbruce.github.io/marcbruce.github.io
 
 theme:
     name: 'material'
